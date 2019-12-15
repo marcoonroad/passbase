@@ -1,0 +1,15 @@
+{
+  "name": "passbase",
+  "version": "1.0.0",
+  "description": "Password database fuzzy generation.",
+  "main": "index.js",
+  "repository": "https://github.com/marcoonroad/passbase",
+  "author": "Marco Aurélio da Silva <marcoonroad@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cuid": "2.1.6",
+    "moment": "2.24.0",
+    "yargs": "15.0.2"
+  }
+}
